@@ -1,7 +1,7 @@
 package org.limlee.hipraiseanimationlib;
 
 import android.graphics.Bitmap;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 
 public class PraiseWithCallbackDrawable extends PraiseDrawable implements OnDrawCallback {
